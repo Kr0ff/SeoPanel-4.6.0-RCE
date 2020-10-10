@@ -11,4 +11,4 @@ pip install -r requirements.txt
 ```
 
 ## Example:
-![example_run_exploit](gif/example.gif)
+![example_run_exploit](example-run-exploit.gif)
